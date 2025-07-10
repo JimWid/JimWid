@@ -7,7 +7,7 @@ Currenly and exploring cutting-edge ML projects while also preparing for entry-l
 
 **Main Projects:**
 **Real Time Rubik's-Cube Dectector (Rubik's Cube Solver)**
-- Detects Rubiks Cube with +80% confidence using a custom trained model.
+- Detects Rubiks Cube with +80% confidence using a **custom trained model**.
 - Detects color for every sticker in the cube.
 - Gives full set of movements to solve the cube.
 
