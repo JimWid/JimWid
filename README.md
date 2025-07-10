@@ -1,7 +1,7 @@
 #### 👋 Hi, I'm Widmark La Rosa:
-I'm a student at Saint Peter's University, persuing a bachelor's degree in Computer Science - Focusing in Artificial Intelligence and Machine Learning.
+I'm a student at **Saint Peter's University**, persuing a bachelor's degree in **Computer Science** - Focusing in **Artificial Intelligence and Machine Learning**.
 I am really passionate about AI and building systems that are able to see, think and learn - planning to especialize in **Computer Vision** and **Robotics** in the future.
-Currenly and exploring cutting-edge ML projects while also preparing for entry-level roles in AI research, Machine Learning Interns and Computer Vision Engineering.
+Currenly and exploring cutting-edge ML projects while also preparing for entry-level roles in **AI research, Machine Learning Interns and Computer Vision Engineering**.
 
 **Currently a Machine Learning Intern @ Saint Peter's University**
 
