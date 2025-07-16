@@ -14,5 +14,5 @@ Currenly and exploring cutting-edge ML projects while also preparing for entry-l
 #### Contact:
 - [LinkedIn](https://www.linkedin.com/in/widmarklarosa/)
 - jimmylr80@gmail.com
-- [View My Resume](https://drive.google.com/file/d/1qLk0RZW6xWN2LQOQMsq8JkQMJmAvpVer/view?usp=drive_link)
+- [View My Resume](https://drive.google.com/file/d/1OsCjTD_jp4olDO7srOGFK_YUV2vdkxxR/view?usp=sharing)
 
