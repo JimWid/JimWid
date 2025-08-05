@@ -6,7 +6,7 @@ Currenly and exploring cutting-edge ML projects while also preparing for entry-l
 #### Projects:
 - **Transformer + Sentiment Classifier From Scratch**
 - **Rubiks Cube Solver** (Computer Vision)
-- **AI Agent For TicTacToe** (Reinforment Learning)
+- **AI Agent For TicTacToe** (Reinforcement Learning)
   
 #### Contact:
 - [LinkedIn Profile](https://www.linkedin.com/in/widmarklarosa/)
