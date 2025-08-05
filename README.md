@@ -5,12 +5,6 @@ Currenly and exploring cutting-edge ML projects while also preparing for entry-l
 
 **Currently a Machine Learning Intern @ Saint Peter's University**
 
-**Main Working Project:**
-**Real Time Rubik's-Cube Detector (Rubik's Cube Solver)**
-- Detects Rubik's Cube with +80% confidence using a **custom trained model**.
-- Detects and stores color for every sticker in the cube.
-- Gives full set of movements (20 or less) to solve the cube.
-
 #### Contact:
 - [LinkedIn](https://www.linkedin.com/in/widmarklarosa/)
 - jimmylr80@gmail.com
