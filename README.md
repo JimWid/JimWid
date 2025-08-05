@@ -2,9 +2,6 @@
 I'm a student at **Saint Peter's University**, pursuing a bachelor's degree in **Computer Science** - Focusing on **Artificial Intelligence and Machine Learning**.
 I am really passionate about AI and building systems that are able to see, think and learn - planning to specialize in **Computer Vision** and **Robotics** in the future.
 Currenly and exploring cutting-edge ML projects while also preparing for entry-level roles in **AI research, Machine Learning Interns and Computer Vision Engineering**.
-
-**Currently a Machine Learning Intern @ Saint Peter's University**
-
 #### Contact:
 - [LinkedIn](https://www.linkedin.com/in/widmarklarosa/)
 - jimmylr80@gmail.com
