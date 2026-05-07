@@ -1,10 +1,17 @@
-#### 👋 Hi, I'm Widmark La Rosa:
-I'm a student at **Saint Peter's University**, pursuing a bachelor's degree in **Computer Science** - Focusing on **Artificial Intelligence and Machine Learning**.
-I am really passionate about AI and building systems that are able to see, think and learn - planning to specialize in **Computer Vision** and **Robotics** in the far future.
-Currently exploring and developing AI Engineer / Machine Learning Engineer projects!
+### Hey you, yes you...
+I am an undergrad doing a **BS in Computer Science** and **BA in Mathematics**. I like to build deep neural networks.
+I am planning to specialize in **Computer Vision** to get in the field of **Autonomous Vehicles**.
+Pretty much self-taugh but there is no much pride in it when is the minimum you have to do nowdays.
+
+Projects I am proud of:
+- Rubiks Cube Detector and Solver
+- Transformer from Scratch
+- Neural Networks
+- **Working on**: YOLOP model implementation
+
+> Always trying to learn
   
-#### Contact:
+#### Contact Me:
 - [LinkedIn Profile](https://www.linkedin.com/in/widmarklarosa/)
-- jimmylr80@gmail.com
-- [View My Resume](https://drive.google.com/file/d/1u2snWlCJ6XXYGnQLL_qutcMVBWRlReTP/view?usp=sharing)
+- [My Portfolio](https://widmarklarosa.vercel.app/)
 
