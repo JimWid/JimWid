@@ -7,7 +7,6 @@ Projects I am proud of:
 - Rubiks Cube Detector and Solver
 - Transformer from Scratch
 - Neural Networks
-- **Working on**: YOLOP model implementation
 
 > Always trying to learn
   
